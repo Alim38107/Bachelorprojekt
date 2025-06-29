@@ -1,10 +1,10 @@
-# NDR Metadaten Knowledge Graph
+# Visualisierung von Metadaten als Graph
 
 **Hinweis:** Der Quellcode und die Originaldaten sind aus Datenschutzgründen nicht öffentlich zugänglich. Dieses Repository dokumentiert die Architektur, Methodik und ausgewählte Ergebnisse.
 
 ## Problemstellung
 
-Beim NDR lagen Metadaten aus verschiedenen Abteilungen im XML-Format vor – jedoch mit uneinheitlicher Benennung, z. B. `creator`, `ersteller` oder `author`, obwohl sie dieselbe Bedeutung hatten. Dies erschwerte die zentrale Verarbeitung, Suche und Visualisierung der Daten.
+Beim NDR lagen Metadaten aus verschiedenen Abteilungen im XML-Format vor, jedoch mit uneinheitlicher Benennung, z. B. `creator`, `ersteller` oder `author`, obwohl sie dieselbe Bedeutung hatten. Dies erschwerte die zentrale Verarbeitung, Suche und Visualisierung der Daten.
 
 ## Ziel
 
