@@ -30,7 +30,7 @@ Ablauf:
 
 Durch einen Klick auf „Abfrage ausführen“ wird eine SPARQL-Anfrage an den Fuseki-Server geschickt. Das Ergebnis wird direkt als interaktiver Graph dargestellt.
 
-### Beispiel 2: Dynamische Anpassung durch SPARQL
+### Beispiel 2: Dynamische Anpassung
 
 ![Graph-Interaktion](docs/screenshots/gif2.gif)
 
