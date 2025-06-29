@@ -24,13 +24,13 @@ Ablauf:
 
 ## Ergebnisse
 
-### Beispiel 1: Abfrage ausführen und Knowledge Graph generieren
+### Beispiel 1: Abfrage ausführen und Graph generieren
 
 ![SPARQL-Interface](docs/screenshots/gif1.gif)
 
-Durch einen Klick auf „Abfrage ausführen“ wird eine SPARQL-Anfrage an den Fuseki-Server geschickt. Das Ergebnis wird direkt als interaktiver Knowledge Graph dargestellt.
+Durch einen Klick auf „Abfrage ausführen“ wird eine SPARQL-Anfrage an den Fuseki-Server geschickt. Das Ergebnis wird direkt als interaktiver Graph dargestellt.
 
-### Beispiel 2: Dynamische Anpassung durch SPARQL-Änderung
+### Beispiel 2: Dynamische Anpassung durch SPARQL
 
 ![Graph-Interaktion](docs/screenshots/gif2.gif)
 
