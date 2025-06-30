@@ -1,6 +1,6 @@
 # Visualisierung von Metadaten als Graph
 
-**Hinweis:** Der Quellcode und die Originaldaten sind aus Datenschutzgründen nicht öffentlich zugänglich. Dieses Repository dokumentiert die Architektur, Methodik und ausgewählte Ergebnisse.
+**Hinweis:** Der Quellcode und die Originaldaten wurden im Rahmen eines Projekts beim NDR erstellt und dürfen aus urheber- und vertragsrechtlichen Gründen nicht veröffentlicht werden.
 
 ## Problemstellung
 
